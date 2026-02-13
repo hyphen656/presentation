@@ -1,0 +1,8 @@
+{
+  "name": "pistachio-dream-presentation",
+  "version": "1.0.0",
+  "description": "Pistachio Dream Competitor Analysis Presentation",
+  "scripts": {
+    "start": "echo 'Static site - open index.html'"
+  }
+}
